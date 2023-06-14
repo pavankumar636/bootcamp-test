@@ -3,3 +3,5 @@ test to push local to remote
 Testing my local - Monika Ashok
 Testing conflict from local
 Conflict created from Remote
+
+branching techniques - ex3
