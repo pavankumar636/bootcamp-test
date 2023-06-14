@@ -1,3 +1,6 @@
 this is a sample text and this file is to try out the git
 test to push local to remote 
 Testing my local - Monika Ashok
+
+
+Conflict created from Remote
